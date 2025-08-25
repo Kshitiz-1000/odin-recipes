@@ -16,7 +16,14 @@ The website features the following recipes:
 
 ## How To Use
 
-To view the website, you can simply open the `index.html` file in your web browser. From there, you can navigate to the different recipe pages. Alternatively, you can open each recipe's HTML file directly.
+The easiest way to view the project is to visit the live site deployed on GitHub Pages.
+
+**[https://kshitiz-1000.github.io/odin-recipes/]**
+
+Alternatively, you can view the files on your local machine:
+1.  Clone this repository to your computer.
+2.  Open the `index.html` file in your web browser to see the main page.
+3.  Click on the links to navigate to the different recipe pages.
 
 ## Image Licenses
 
